@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20fd63e5-a244-4bc6-8b2e-8c47119da690" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice18_OOP_Interfaces.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio10_OOP_Enums/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio10_OOP_Enums/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio10_OOP_Enums/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio10_OOP_Enums/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio10_OOP_Enums/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio10_OOP_Enums/Exercicio10_OOP_Enums.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio10_OOP_Enums/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio10_OOP_Enums/src/entities/Departament.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio10_OOP_Enums/src/entities/HourContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio10_OOP_Enums/src/entities/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio10_OOP_Enums/src/entities/enums/WorkerLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio11_OOP_StringBuilder/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio11_OOP_StringBuilder/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio11_OOP_StringBuilder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio11_OOP_StringBuilder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio11_OOP_StringBuilder/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio11_OOP_StringBuilder/Exercicio11_OOP_StringBuilder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio11_OOP_StringBuilder/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio11_OOP_StringBuilder/src/entities/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio11_OOP_StringBuilder/src/entities/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/Exercicio12_OOP_Enum_Composition.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/src/entities/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/src/entities/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/src/entities/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/src/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio12_OOP_Enum_Composition/src/entities/enums/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio7_OOP_Arrays/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio7_OOP_Arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio7_OOP_Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio7_OOP_Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio7_OOP_Arrays/Exercicio7_OOP_Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio7_OOP_Arrays/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio7_OOP_Arrays/src/entities/Rent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio8_OOP_Lists/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio8_OOP_Lists/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio8_OOP_Lists/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio8_OOP_Lists/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio8_OOP_Lists/Exercicio8_OOP_Lists.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio8_OOP_Lists/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio8_OOP_Lists/src/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio9_OOP_Matrix/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio9_OOP_Matrix/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio9_OOP_Matrix/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio9_OOP_Matrix/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio9_OOP_Matrix/Exercicio9_OOP_Matrix.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicio9_OOP_Matrix/src/application/Program.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2qONI7f4AKrnTj3y8rMJ4C8xe76" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20fd63e5-a244-4bc6-8b2e-8c47119da690" name="Changes" comment="" />
+      <created>1734529579099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734529579099</updated>
+    </task>
+    <servers />
+  </component>
+</project>
