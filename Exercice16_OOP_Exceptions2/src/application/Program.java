@@ -12,21 +12,22 @@ public class Program {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        try{
-            System.out.println("Enter account data");
-            System.out.print("Number: ");
-            int number = sc.nextInt();
-            System.out.print("Holder: ");
-            sc.nextLine();
-            String holder = sc.nextLine();
-            System.out.print("Initial balance: ");
-            double amount = sc.nextDouble();
-            System.out.print("Withdraw limit: ");
-            double limit = sc.nextDouble();
 
-            Account acc1 = new Account(number, holder, amount, limit);
-            System.out.println(acc1);
+        System.out.println("Enter account data");
+        System.out.print("Number: ");
+        int number = sc.nextInt();
+        System.out.print("Holder: ");
+        sc.nextLine();
+        String holder = sc.nextLine();
+        System.out.print("Initial balance: ");
+        double amount = sc.nextDouble();
+        System.out.print("Withdraw limit: ");
+        double limit = sc.nextDouble();
 
+        Account acc1 = new Account(number, holder, amount, limit);
+        System.out.println(acc1);
+
+        try {
             System.out.println();
             System.out.print("Enter amount to withdraw: ");
             amount = sc.nextDouble();
